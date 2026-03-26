@@ -13,7 +13,7 @@ The internal dashboard for managing data. A secure, role-based management portal
 
 ## Central Documentation
 The Business Requirements Document (BRD) is maintained in the **Server-Side** repository to ensure a single source of truth.
-  - Business Requirements Document file - LINK
+  - Business Requirements Document - LINK
 
 ## Related Repositories
   - Server Side: [View Server Repository](https://github.com/ThR-202IV/e-commerce-BE)
