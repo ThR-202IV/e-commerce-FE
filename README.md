@@ -16,6 +16,5 @@ The Business Requirements Document (BRD) is maintained in the Server-Side reposi
   - Business Requirements Document file - LINK
 
 ## Related Repositories
-  - Client Side: [View Client Repository](https://github.com/ThR-202IV/e-commerce-FE)
   - Server Side: [View Server Repository](https://github.com/ThR-202IV/e-commerce-BE)
   - Admin Side: [View Admin Repository](https://github.com/ThR-202IV/e-commerce-Admin)
